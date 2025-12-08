@@ -175,9 +175,9 @@ int main() {
         printf("3. Delete a value\n");
         printf("4. insert value at front\n");
         printf("5. insert value at end\n");
-        printf("6.display");
-        printf("7.Exit");
-        printf("Enter your choice: ");
+        printf("6.display\n");
+        printf("7.Exit\n");
+        printf("Enter your choice:\n ");
         scanf("%d", &choice);
 
         switch (choice) {
